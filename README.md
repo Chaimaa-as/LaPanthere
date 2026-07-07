@@ -4,7 +4,7 @@ Optimisation SEO, Accessibilité et Performance d'un site web existant pour l'ag
 
 ## 🚀 Voir le projet en ligne
 
-[👉 Cliquez ici pour voir le site optimisé](https://chaimaa-as.github.io/lapanthere/)
+[👉 Cliquez ici pour voir le site optimisé](https://chaimaa-as.github.io/LaPanthere/)
 
 <img src="./img/apercu-lapanthere.png" alt="Aperçu du site La Panthère" width="800">
 
